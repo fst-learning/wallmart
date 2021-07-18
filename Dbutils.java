@@ -1,3 +1,0 @@
-
- ihello db details guys
-
